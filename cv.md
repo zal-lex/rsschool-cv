@@ -17,20 +17,20 @@ the ability to learn independently and quickly
 TECHNICAL SKILLS
 Ruby and Ruby on Rails
 
-- Good understanding of the main OOP principles, Rails design patterns and MVC pattern in general.
+- Good understanding of the main OOP principles, Rails design patterns, and MVC pattern in general.
 - Ability to write sleek, performant, low-overhead Ruby code
 - Using Rubocop for checking code style
 - Experience in working with external API
 - Experience in using popular gems
   RSpec
-- Models, views, controllers and request specs
+- Models, views, controllers, and request specs
   Frontend
 - Using HTML, HTML5, CSS, SASS, SCSS for creating an adaptive layout
 - Experience in plain JavaScript, jQuery, and React.js
 - Experience in working with Google Maps API for implementing user interaction with google maps
   DataBases
 - Knowledge and experience in database management with such DMS as SQLite3, MySQL, PostgreSQL. Latter was configured at the production environment
-- Redis (with Resque) being used for configuring of e-mails sending in delayed jobs
+- Redis (with Resque) being used for configuring e-mails sending in delayed jobs
   DevOps
 - Experience in deploying on Heroku and VPS-server DigitalOcean. Deploy on VPS was configured with gem Capistrano. On VPS-sever Nginx + Phusion Passenger was used
   Git/GitHub
@@ -63,7 +63,7 @@ Ruby Projects:
 
 Hangman game (GitHub https://github.com/zal-lex/hangman) - operations with files, OOP basics
 
-Console weather focast (GitHub https://github.com/zal-lex/meteoservice) - work with external API, with XML (XPath), RSpec tests
+Console weather forecast (GitHub https://github.com/zal-lex/meteoservice) - work with external API, with XML (XPath), RSpec tests
 
 Quiz (GitHub https://github.com/zal-lex/quiz) - operations with files
 
@@ -71,11 +71,19 @@ Ruby on Rails Projects:
 
 Favorite Places (GitHub https://github.com/zal-lex/my-places) - social network. Registered users can save their favorite places, upload photos to them. They can add other users as friends. They also can add friends' places to the list of their favorite places. Admin can delete any user or any place.
 
-BBQ (GitHub https://github.com/zal-lex/bbq) - meeting service. Users can register with e-mail or through social networks. They can comment on a meeting, upload photos to it.
+BBQ (GitHub https://github.com/zal-lex/bbq) - meeting service. Users can register by e-mail or through social networks. They can comment on a meeting, upload photos to it.
 
 AskMe (GitHub https://github.com/zal-lex/askme) - ask.fm analogue
 
 EDUCATION
+August 2020
+JS: React
+More: hexlet.io (https://ru.hexlet.io/courses/js-react)
+
+August 2020
+JS: DOM API
+More: hexlet.io (https://ru.hexlet.io/courses/js-dom)
+
 March 2020 - June 2020
 Building Modern Web with Ruby in Clouds
 ->> Certificate <<- (https://drive.google.com/file/d/1Avp2HmFZk1F9CFLu9iVRlAXtxx_qhvay/view)
