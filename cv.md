@@ -3,8 +3,9 @@
 ## CONTACTS
 
 **Phone**: +375 (29) 856-92-34
-**Discord**: Alexey Zalyotov (@zal-lex)
-**E-mail**: [alexey.zalyotov@gmail.com](alexey.zalyotov@gmail.com)
+
+**Discord**: Alexey Zalyotov (@zal-lex)  
+**E-mail**: [alexey.zalyotov@gmail.com](alexey.zalyotov@gmail.com)  
 **LinkedIn**: [https://www.linkedin.com/in/alexey-zalyotov/](https://www.linkedin.com/in/alexey-zalyotov)
 
 ## ABOUT
@@ -60,11 +61,9 @@ I'm a Software Engineer with experience in development Ruby console utilities an
 
 ## PROJECTS
 
-The first Ruby program I executed from the console was gem `Cowsay`. It is very simple and funny. You can do something like this:
+The first Ruby program I executed from the console was gem `Cowsay`. It is very simple and funny. You can do something like this `puts Cow.new.say('Mooooooooo!!!')` and you will see:
 
 ```sh
-puts Cow.new.say('Mooooooooo!!!')
-
 ---
 
 < Mooooooooo!!! >
@@ -96,32 +95,32 @@ _**AskMe**_ ([GitHub](https://github.com/zal-lex/askme)) - ask.fm analogue
 
 ## EDUCATION
 
-_August 2020_
-**JS: React**
+_August 2020_  
+**JS: React**  
 More: [hexlet.io](https://ru.hexlet.io/courses/js-react)
 
-_August 2020_
-**JS: DOM API**
+_August 2020_  
+**JS: DOM API**  
 More: [hexlet.io](https://ru.hexlet.io/courses/js-dom)
 
-_March 2020 - June 2020_
-**Building Modern Web with Ruby in Clouds**
-More: [training.by](https://training.by/#!/Training/2433?lang=ru)
+_March 2020 - June 2020_  
+**Building Modern Web with Ruby in Clouds**  
+More: [training.by](https://training.by/#!/Training/2433?lang=ru)  
 ->> [Certificate](https://drive.google.com/file/d/1Avp2HmFZk1F9CFLu9iVRlAXtxx_qhvay/view) <<-
 
-_November 2019 - May 2020_
-**Rails Calcite 2019**
-Main technologies:
-Ruby, Ruby on Rails, Rspec.
-A full stack of the studied technologies you can find here: [goodprogrammer.ru](https://goodprogrammer.ru/rails#program)
+_November 2019 - May 2020_  
+**Rails Calcite 2019**  
+Main technologies:  
+Ruby, Ruby on Rails, Rspec.  
+A full stack of the studied technologies you can find here: [goodprogrammer.ru](https://goodprogrammer.ru/rails#program)  
 ->> [Certificate](https://goodprogrammer.ru/certificates/272c6d720d0166363984) <<-
 
-_September 2019 - October 2019_
-**Ruby Rush**
+_September 2019 - October 2019_  
+**Ruby Rush**  
 Free Ruby course [rubyrush.ru](https://rubyrush.ru/)
 
-_September 2007 - June 2012_
-**BSUIR**
+_September 2007 - June 2012_  
+**BSUIR**  
 Information Technology and Management
 
 ## ENGLISH B1
