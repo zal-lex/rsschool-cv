@@ -2,8 +2,7 @@
 
 ## CONTACTS
 
-**Phone**: +375 (29) 856-92-34
-
+**Phone**: +375 (29) 856-92-34  
 **Discord**: Alexey Zalyotov (@zal-lex)  
 **E-mail**: [alexey.zalyotov@gmail.com](alexey.zalyotov@gmail.com)  
 **LinkedIn**: [https://www.linkedin.com/in/alexey-zalyotov/](https://www.linkedin.com/in/alexey-zalyotov)
