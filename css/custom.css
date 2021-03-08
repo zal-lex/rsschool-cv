@@ -1,0 +1,131 @@
+main {
+  background-color: #232426;
+}
+
+h4 {
+  color: #ca5547;
+}
+
+.avatorka,
+.contacts,
+.about h4 {
+  color: #fff;
+}
+
+.avatorka {
+  padding-left: 4%;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.avatorka img {
+  margin-top: 15px;
+  max-width: 70%;
+  box-sizing: border-box;
+}
+
+.about {
+  background-image: url(../images/red_background.png);
+  padding: 20px 0 20px 20px;
+}
+
+.contacts a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.contacts img {
+  max-width: 20px;
+  vertical-align: sub;
+  margin-right: 8px;
+}
+
+.contacts li {
+  list-style: none;
+}
+
+@media (max-width: 1110px) {
+  .contacts li {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 550px) {
+  .contacts li {
+    font-size: 1.1em;
+  }
+}
+
+.gray-bkg {
+  background-color: #26282b;
+}
+.about {
+  padding-right: 1%;
+}
+
+.cv-text {
+  padding: 2% 4% 1% 4%;
+}
+
+li {
+  list-style-type: '- ';
+}
+
+.skills ul,
+li:last-child {
+  margin-bottom: 0;
+}
+
+.list-style-check ul {
+  list-style-image: url('../images/list.png');
+}
+
+.education .row {
+  margin-bottom: 8px;
+}
+
+.education .row:last-child {
+  margin-bottom: 0;
+}
+
+.red {
+  color: #ca5547;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
+.red-small {
+  color: #ca5547;
+  font-weight: 300;
+}
+
+.white {
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
+a {
+  color: #ca5547;
+}
+
+.underline {
+  border-bottom-color: #ca5547;
+  border-bottom-style: outset;
+  border-bottom-width: 0.5px;
+}
+
+.padding-left {
+  padding-left: 2%;
+}
+
+.margin-bottom {
+  margin-bottom: 2%;
+}
+
+.center {
+  text-align: center;
+}
+
+summary {
+  outline: none;
+}
