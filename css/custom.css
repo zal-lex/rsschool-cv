@@ -6,13 +6,48 @@ h4 {
   color: #ca5547;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .avatorka,
 .contacts,
 .about h4 {
   color: #fff;
 }
 
+nav ul {
+  display: flex;
+  margin-bottom: 0;
+}
+
+nav li {
+  list-style-type: none;
+  padding: 10px 25px 15px;
+  margin-bottom: 0;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-item {
+  padding: 15px 25px 15px;
+}
+
+.school-logo {
+  width: 100px;
+}
+
 .avatorka {
+  margin-top: 20px;
   padding-left: 4%;
   font-size: 1.5em;
   text-align: center;
@@ -128,4 +163,13 @@ a {
 
 summary {
   outline: none;
+}
+
+/**
+ * Enable smooth scrolling on the #be-cool element
+ */
+#skills,
+#courses,
+#edi {
+  scroll-behavior: smooth;
 }

@@ -1,6 +1,8 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-main {
+main,
+header,
+footer {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -17,7 +19,9 @@ main {
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
-  main {
+  main,
+  header,
+  footer {
     width: 85%;
     padding: 0;
   }
@@ -25,7 +29,9 @@ main {
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
-  main {
+  main,
+  header,
+  footer {
     width: 80%;
   }
   .column,
@@ -150,7 +156,7 @@ h6 {
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   h2 {
     font-size: 4.2rem;
@@ -217,6 +223,7 @@ ol {
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Self Clearing Goodness */
+header:after,
 main:after,
 .row:after {
   content: '';

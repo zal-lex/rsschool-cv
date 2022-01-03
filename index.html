@@ -13,29 +13,34 @@
   <link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#edu">Education</a></li>
+      </ul>
+    </nav>
+  </header>
   <main>
     <div class="row">
       <div class="four columns">
         <div class="avatorka">
-          <div>
-            Print PDF version: 
-            <a href="files/Alexey_Zalyotov_CV_2020.pdf" target="_blank">click</a>
-          </div>
-          <img src="images/avatorka.jpg" alt="avatorka">
-          <h3>Alexey Zalyotov</h3>
+          <h1>Alexey Zalyotov</h1>
           <div>Software Engineer 👨‍💻</div>
-          <div>English B1</div>
-          <div>
-            <a href="https://github.com/zal-lex" target="_blank">GitHub</a>
-          </div>
+          <img src="images/avatorka.jpg" alt="avator">
           <div class="center">
             <p><a href="https://www.google.by/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8846196,27.5233293,12z/data=!3m1!4b1!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972" target="_blank">Minsk, Belarus</a></p>
+          </div>
+          <div>English level: B1+, B2</div>
+          <div>
+            <a href="files/Alexey_Zalyotov_CV_2020.pdf" target="_blank">Download CV in PDF</a>
           </div>
         </div>
       </div>
       <div class="eight columns about">
         <div class="row">
-          <h4>ABOUT</h4>
+          <h2>ABOUT</h2>
           <p>Software Engineer with experience in development Ruby console utilities and Ruby on Rails applications. My goal is to increase my knowledge and experience in front-end development and become a highly qualified full-stack software engineer.</p>
           <div>My strengths:
             <ul>
@@ -45,7 +50,7 @@
             </ul>
           </div>
           <div class="row contacts">
-            <h4>CONTACTS</h4>
+            <h2>CONTACTS</h2>
             <div class="four columns">
               <ul>
                 <li>
@@ -100,7 +105,7 @@
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row" id="skills">
       <div class="cv-text skills list-style-check">
         <h4>TECHNICAL SKILLS</h4>
         <div class="row underline">
@@ -134,7 +139,7 @@
           <div class="ten columns">
             <ul>
               <li>
-                Models, views, controllers and request specs      
+                Models, views, controllers and request specs
               </li>
             </ul>
           </div>
@@ -147,10 +152,10 @@
                 Using HTML, HTML5, CSS, SASS, SCSS for creating an adaptive layout
               </li>
               <li>
-                Experience in plain JavaScript, jQuery, and React.js             
+                Experience in plain JavaScript, jQuery, and React.js
               </li>
               <li>
-                Experience in working with Google Maps API for implementing user interaction with google maps             
+                Experience in working with Google Maps API for implementing user interaction with google maps
               </li>
             </ul>
           </div>
@@ -189,7 +194,7 @@
                 Ability to write informative and correct commit-messages
               </li>
               <li>
-                Knowledge of the most used commands and use aliases for them                
+                Knowledge of the most used commands and use aliases for them
               </li>
             </ul>
           </div>
@@ -212,7 +217,7 @@
         </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row" id="courses">
         <div class="one-half column gray-bkg cv-text">
           <h5>Ruby on Rails Projects:</h5>
           <p><strong>Favorite Places</strong> (<a href="https://github.com/zal-lex/my-places">GitHub</a>) - social network. Registered users can save their favorite places, upload photos to them. They can add other users as friends. They also can add friends' places to the list of their favorite places. Admin can delete any user or any place</p>
@@ -226,7 +231,7 @@
           <p><strong>Quiz</strong> (<a href="https://github.com/zal-lex/quiz">GitHub</a>) - operations with files</p>
         </div>
     </div>
-    <div class="row">
+    <div class="row" id="edu">
       <div class="cv-text education">
         <h4>EDUCATION</h4>
         <div class="row">
@@ -363,5 +368,16 @@
       </div>
     </div>
   </main>
+  <footer>
+    <div class="footer-item">
+      <a href="https://github.com/zal-lex" target="_blank">GitHub</a>
+    </div>
+    <div class="footer-item">CV updated at: 03/01/2022</div>
+    <div class="school-logo footer-item">
+      <a href="https://rs.school/js/" target="blank">
+        <img src="https://rs.school/images/rs_school_js.svg" alt="RSSchool" />
+      </a>
+    </div>
+  </footer>
 </body>
 </html>
