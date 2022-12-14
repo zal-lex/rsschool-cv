@@ -2,6 +2,10 @@ main {
   background-color: #232426;
 }
 
+h2 {
+  color: #ca5547;
+}
+
 h4 {
   color: #ca5547;
 }
@@ -13,6 +17,10 @@ a {
 a:hover {
   color: #fff;
   text-decoration: underline;
+}
+
+.about h2 {
+  color: #fff;
 }
 
 .avatorka,
